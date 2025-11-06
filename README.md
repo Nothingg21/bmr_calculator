@@ -1,16 +1,18 @@
-# flutter_application_1
+# BMR Calculator (Flutter)
 
-A new Flutter project.
+## Anggota Kelompok:
+- Zanjabiela Adil Perkasa (K3523079)
 
-## Getting Started
+## Deskripsi
+Aplikasi ini menghitung kebutuhan kalori basal (BMR) berdasarkan:
+- Gender
+- Tinggi badan
+- Berat badan
+- Umur
 
-This project is a starting point for a Flutter application.
+BMR dihitung menggunakan rumus Harris-Benedict.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
+<img width="1920" height="1080" alt="Cuplikan layar 2025-11-06 120400" src="https://github.com/user-attachments/assets/9a077e9c-2190-4008-8778-4a090826c642" />
+<img width="1920" height="1080" alt="Cuplikan layar 2025-11-06 120413" src="https://github.com/user-attachments/assets/d620c3d8-5c81-4ef5-bf67-3b12b23684bd" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
