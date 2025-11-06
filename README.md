@@ -2,6 +2,7 @@
 
 ## Anggota Kelompok:
 - Zanjabiela Adil Perkasa (K3523079)
+- Ilham Muhammad Hakiem (K3523037)
 
 ## Deskripsi
 Aplikasi ini menghitung kebutuhan kalori basal (BMR) berdasarkan:
